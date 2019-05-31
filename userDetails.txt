@@ -1,3 +1,0 @@
-Anuj,Pundalik,anuj@email.com,11111111111,1,pune,AnujPundalik_CV.pdf
-Priyanka,Tikande,priyanka@email.com,2222222222,2,pune,Priyanka-Tikande.pdf
-nupur,chillal,nupur@email.com,3333333333,3,pune,Nupur-Chillal.pdf
